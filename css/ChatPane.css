@@ -306,7 +306,7 @@ h2 {
     .wc-header {
         position: relative !important;
         background-color: #272727 !important;
-        background-image: url("../images/logo-Pragmatismo.png"), url(../images/logo_General_BotS.png);
+        background-image: url("../images/logo-Pragmatismo.png");
         background-position-x: 15px, right;
         background-position-y: 15px, 2px;
         background-size: 238px, 75px;
